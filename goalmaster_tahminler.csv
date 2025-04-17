@@ -1,0 +1,293 @@
+home_team,away_team,goal_diff,goal_total,form_rate,title_chase,relegation_risk
+Chiquimulilla,Quiché,1.0,2.34,0.33,0,0
+Sacachispas,Coatepecano IB,0.33,1.67,0.33,0,0
+Sudtirol U19,Renate U19,0.66,2.0,0.33,0,0
+Mercadal,Poblense,-0.33,1.67,0.0,0,0
+Greve,Næstved II,1.0,1.0,0.0,0,0
+Buzanada,Estrella,0.34,3.0,0.67,0,0
+Fredensborg BI,Karlslunde,0.67,2.67,0.33,0,0
+Grenaa,Tarup-Paarup,0.34,1.0,0.0,0,0
+Herbania,Los Llanos,0.0,1.34,0.0,0,0
+Vejle,Viborg,-1.67,3.67,0.33,0,0
+Lyngby,Sonderjyske,0.0,2.66,0.0,0,0
+Werder Bremen II,St. Pauli II,0.0,4.0,0.33,0,0
+Roskilde,HB Koge,0.33,1.67,0.0,0,0
+PSS Sleman,Dewa United,-0.67,3.33,0.33,0,0
+Legia Warszawa II,Stomil Olsztyn,2.0,3.34,0.67,0,0
+Zagłębie Lubin II,Kalisz,0.67,1.33,0.33,0,0
+Gørslev,AB Tårnby,-0.33,2.33,0.0,0,0
+Slovan Liberec U19,Sigma Olomouc U19,-0.33,3.67,0.67,0,0
+Baku Sportinq,Qaradağ Lökbatan,0.67,0.67,0.0,0,0
+Paganese,Atletico Uri,-0.33,1.67,0.33,0,0
+Sarrabus Ogliastra,CynthiAlbalonga,1.0,2.34,0.33,0,0
+Difai Ağsu,Zaqatala,-0.67,4.67,0.33,0,0
+Raadsan,Elman,-0.67,3.33,0.33,0,0
+Chievo,AC Magenta,0.0,2.66,0.33,0,0
+Matera,Angri Calcio,1.33,2.67,0.0,0,0
+Sambenedettese,Termoli Calcio,0.34,3.0,0.67,0,0
+Virtus Francavilla,Nocerina,0.33,4.33,0.33,0,0
+Trastevere,Latte Dolce,0.67,3.33,0.33,0,0
+Siracusa,Paternò,0.33,2.33,0.67,0,0
+Campodarsego,Real Calepina,-1.0,3.0,0.33,0,0
+Chieri,Sanremese,0.67,1.33,0.0,0,0
+Forli,Pistoiese,2.0,3.34,1.0,0,0
+Olbia,Sarnese,0.0,2.66,0.33,0,0
+Gavorrano,Orvietana Calcio,-0.66,2.0,0.33,0,0
+Fermana,Civitanovese,0.67,2.67,0.33,0,0
+Gozzano,Ligorna,1.67,3.67,1.0,0,0
+Vihren,Granit Vladaya,2.0,3.34,0.33,0,0
+Città di Fasano,Ugento,1.0,3.66,0.67,0,0
+Fanfulla,Pro Palazzolo,-1.0,2.34,0.0,0,0
+B 93,Hillerød,0.34,3.0,0.33,0,0
+Young Buffaloes,Sidwashini United,2.0,3.34,0.67,0,0
+Bra,Città di Varese,-0.34,3.0,0.67,0,0
+Fezzanese,FC Siena,-0.66,2.0,0.0,0,0
+Lavagnese,Asti,1.0,2.34,1.0,0,0
+Caravaggio,Brusaporto,0.34,1.0,0.0,0,0
+Folgore Caratese,Ciliverghe,2.33,2.33,0.67,0,0
+Pro Sesto,Crema,0.0,2.0,0.33,0,0
+Villa Valle,Luparense,0.0,2.0,0.67,0,0
+Virtus Ciserano Bergamo,Adriese,-1.67,2.33,0.0,0,0
+Chions,Brian Lignano,0.0,2.0,0.33,0,0
+Cjarlins Muzane,Portosummaga,0.0,0.66,0.0,0,0
+Este,Lavis,0.0,0.66,0.0,0,0
+Breno,Sondrio,-0.67,2.67,0.33,0,0
+Fiorenzuola,Lentigione,-2.0,4.0,0.67,0,0
+Flaminia,Terranuova Traiana,1.67,3.67,0.67,0,0
+Grosseto,Montevarchi Calcio,-1.0,2.34,0.33,0,0
+Sangiovannese,Livorno,-1.0,3.66,0.33,0,0
+Sporting Trestina,Ghivizzano Borgo Mozzano,-1.33,3.33,0.33,0,0
+Avezzano,Castelfidardo Calcio,0.33,2.33,0.67,0,0
+Recanatese,Sora,-1.0,2.34,0.0,0,0
+San Nicolò,Vigor Senigallia,-0.33,1.67,0.0,0,0
+Cassino,Anzio,-0.33,2.33,0.33,0,0
+Ostia Mare,San Donato Tavarnelle,0.67,3.33,0.67,0,0
+Brindisi,Nardò,-0.66,4.0,0.33,0,0
+Casarano,Fidelis Andria,1.33,3.33,1.0,0,0
+Savoia,Terracina Calcio,0.66,2.0,0.33,0,0
+Ballkani,Gjilani,2.0,4.0,0.67,0,0
+Progresso,Sammaurese,0.34,1.0,0.0,0,0
+Drita,Prishtina,-1.34,2.0,0.33,0,0
+Puteolana,Guidonia Montecelio 1937,-2.0,3.34,0.0,0,0
+Derthona,Saluzzo,0.0,2.0,0.67,0,0
+Desenzano Calvina,Vigasio,-0.33,2.33,0.67,0,0
+Sangiuliano City,Arconatese,-1.0,2.34,0.33,0,0
+Dolomiti Bellunesi,Treviso,0.67,2.67,0.67,0,0
+Real Monterotondo Scalo,Ilvamaddalena,0.33,1.67,0.67,0,0
+Sancataldese,Città Di Sant’Agata,-0.66,2.0,0.33,0,0
+Varesina,USD Casatese,-1.0,4.34,0.33,0,0
+Chisola,Borgaro Nobis,-0.66,2.0,0.33,0,0
+Corticella,Prato,0.67,1.33,0.0,0,0
+Locri 1909,Reggina,-1.0,3.66,0.33,0,0
+Martina Franca,Francavilla,-1.0,1.0,0.0,0,0
+Montecchio Maggiore,Calvi Noale,-0.67,0.67,0.0,0,0
+Roma City,Città di Isernia,-0.67,2.67,0.0,0,0
+Sant'Angelo,Castellanzese,-0.66,2.0,0.0,0,0
+Tau Altopascio,Tuttocuoio,1.0,2.34,0.33,0,0
+USD Palmese,Manfredonia,-0.66,4.0,0.33,0,0
+United Riccione,Piacenza,-1.0,1.66,0.0,0,0
+Unterhaching II,1860 München II,-0.67,2.67,0.33,0,0
+Figline,Poggibonsi,0.0,0.0,0.0,0,0
+Victor San Marino,Imolese,-1.0,3.66,0.67,0,0
+Atletico Ascoli,Teramo,-1.0,3.66,0.33,0,0
+L'Aquila,Chieti,-0.67,3.33,0.33,0,0
+Ezulwini United,Sisonkhe,0.0,2.0,0.0,0,0
+Cairese,Imperia,-0.33,1.67,0.33,0,0
+Cittadella Vis Modena,Ravenna,-1.0,5.0,0.33,0,0
+Costa D’Amalfi,Gravina,1.0,2.34,0.33,0,0
+Fulgens Foligno,Seravezza,0.0,2.66,0.0,0,0
+Nissa,Enna,0.66,2.0,0.0,0,0
+Oltrepò,Vado,-0.67,2.67,0.67,0,0
+Ospitaletto,Club Milano,-0.33,3.67,1.0,0,0
+Pompei,Acireale,-0.33,2.33,0.33,0,0
+Real Acerrana,Ischia,1.0,1.66,0.33,0,0
+Sambiase,Licata,-0.33,1.67,0.0,0,0
+Scafatese,Igea Virtus,1.0,3.66,0.67,0,0
+Zenith Prato,ASD Sasso Marconi,-1.33,2.67,0.67,0,0
+NovaRomentin,Fossano,2.67,3.33,0.33,0,0
+Atletico Lodigiani,Gelbison,-1.33,2.67,0.0,0,0
+CastrumFavara,Ragusa,-0.67,2.67,0.0,0,0
+Wieczysta Kraków,Świt Skolwin,-1.34,4.0,0.33,0,0
+Aluminium Arak,Chadormalu SC,-1.0,1.66,0.0,0,0
+Kheybar Khorramabad,Nassaji Mazandaran,0.33,0.33,0.0,0,0
+ZOB Ahan,Esteghlal Khuzestan,0.0,2.0,0.33,0,0
+Podhale Nowy Targ,Wisłoka Dębica,0.67,1.33,0.0,0,0
+Sesvete,HNK Cibalia,0.33,2.33,1.0,0,0
+Randers FC,Aarhus,0.0,2.66,0.33,0,0
+El Geish,Enppi,-0.33,2.33,0.33,0,0
+Nesebar,FK Minyor Pernik,-0.34,1.0,0.0,0,0
+Chernomorets Balchik,Dorostol,1.0,1.66,0.33,0,0
+Al Ahly,Pharco,0.33,1.67,0.67,0,0
+Shabab Al Ordon,Aqaba,2.0,2.0,0.33,0,0
+Atletik Kuklen,Rozova dolina,-0.67,2.67,0.33,0,0
+Dimitrovgrad,Chernomorets 1919 Burgas,-3.0,5.66,0.33,0,0
+Gigant Saedinenie,Sozopol,-2.33,2.33,0.0,0,0
+Karnobat,Rodopa Smolyan,-1.33,1.33,0.0,0,0
+Yambol 1915,Asenovets,1.0,3.0,0.67,0,0
+Lenense,San Martín,0.34,1.0,0.33,0,0
+Berceo,Vianés,2.0,2.66,0.67,0,0
+Al Najaf,Karbala,0.33,1.67,0.33,0,0
+Al Talaba,Al Kahrabaa,0.0,3.34,0.33,0,0
+Spartak Plovdiv,Sekirovo,0.33,5.67,0.67,0,0
+Pirin Gotse Delchev,Botev Ihtiman,0.0,2.66,0.0,0,0
+Wisła Puławy,Radunia Stężyca,0.67,3.33,0.33,0,0
+Lokomotiv Plovdiv II,Botev Plovdiv III,-1.66,3.0,0.0,0,0
+Sayana Haskovo,Levski Karlovo,-1.0,2.34,0.0,0,0
+FK Svilengrad,Zagorets,-1.0,3.0,0.0,0,0
+CSM Reşiţa,CSA Steaua Bucureşti,-1.33,2.67,0.0,0,0
+Becerril Campos,UD Santa Marta,-1.0,4.34,0.67,0,0
+Villarrobledo,Pedroñeras,-0.66,2.0,0.33,0,0
+Sámano,Siete Villas,-0.33,1.67,0.33,0,0
+Maritsa Milevo,Maritsa Plovdiv,0.34,3.0,0.67,0,0
+Korona Kielce II,KSZO 1929,1.34,4.0,0.67,0,0
+Atlético Astorga,Briviesca,-0.67,1.33,0.0,0,0
+Rekord Bielsko-Biała,Olimpia Elbląg,0.0,2.0,0.33,0,0
+Fraga,Zuera,-0.33,0.33,0.0,0,0
+Uljanik,Solin,-1.67,5.67,1.0,0,0
+Ponikve,Sava Strmec,-1.33,1.33,0.0,0,0
+Barreda,Guarnizo,0.34,3.0,0.0,0,0
+Torina,Atlético Albericia,0.34,3.0,0.33,0,0
+Calahorra II,Haro Deportivo,0.0,2.0,0.33,0,0
+CR Belouizdad U21,Mostaganem U21,2.67,3.33,0.67,0,0
+ES Sétif U21,MC Oran U21,1.33,2.67,0.67,0,0
+USM Alger U21,JS Kabylie U21,0.66,4.0,1.0,0,0
+Épila,Atlético Monzón,-2.33,3.67,0.0,0,0
+La Almunia,Huesca II,1.0,1.66,0.67,0,0
+Betanzos,Polvorín,0.33,2.33,0.33,0,0
+Atlético Mineros,Revilla,0.0,2.66,0.33,0,0
+Fossombrone,Ancona,-0.34,3.0,0.33,0,0
+Olympique Akbou U21,CS Constantine U21,0.67,3.33,1.0,0,0
+Hapoel Acre,Maccabi Kabilio Jaffa,-0.33,3.67,0.33,0,0
+Hapoel Ramat HaSharon,Hapoel Afula,0.33,2.33,0.0,0,0
+Hapoel Umm al-Fahm,Hapoel Nazareth Illit,0.33,2.33,0.0,0,0
+Hapoel Kfar Shalem,Hapoel Tel Aviv,-2.33,2.33,0.0,0,0
+Resovia Rzeszów,Hutnik Kraków,-0.34,3.0,0.33,0,0
+Start Brno,Slovan Rosice,0.67,0.67,0.0,0,0
+Villafranca,Llerenense,1.66,5.0,0.67,0,0
+Avilés Stadium,Tuilla,-1.67,2.33,0.33,0,0
+Pogoń Szczecin II,Polonia Środa,-0.67,3.33,0.0,0,0
+Caspe,Binéfar,0.33,2.33,1.0,0,0
+Olympique Sport d'Abobo,Racing d'Abidjan,-1.0,2.34,0.33,0,0
+Al-Ettifaq,Al Riyadh,0.0,1.34,0.0,0,0
+Al-Hilal Saudi FC,Al Khaleej Saihat,0.33,2.33,0.33,0,0
+Al Shabab,Al Akhdoud,1.0,3.66,0.67,0,0
+FC Midtjylland,FC Copenhagen,-0.33,1.67,0.0,0,0
+Pirin Blagoevgrad,Montana,0.0,2.66,0.67,0,0
+Sibenik,Dinamo Zagreb,0.33,2.33,0.33,0,0
+Bremer SV,SV Meppen,0.33,4.33,0.33,0,0
+Vipers,NEC,0.33,3.67,0.33,0,0
+Urraca,Ceares,-0.34,1.0,0.0,0,0
+UD Ourense,Villalbés,0.66,2.0,0.33,0,0
+L'Entregu,Caudal,-0.67,1.33,0.33,0,0
+Praviano,Real Oviedo II,-1.67,4.33,0.33,0,0
+Almazán,Laguna de Duero,0.33,1.67,0.0,0,0
+Arnedo,La Calzada,0.0,3.34,0.33,0,0
+CDJ Tamarite,Calamocha,0.0,2.0,0.67,0,0
+Backnang,Bissingen,1.67,4.33,0.67,0,0
+Greifswalder FC,Altglienicke,0.0,3.34,0.33,0,0
+Mighty Barrolle,Black Man Warrior,0.0,2.66,0.33,0,0
+Einheit Wernigerode,Auerbach,1.34,4.0,0.33,0,0
+Invincible Eleven,Freeport,-0.67,2.67,0.0,0,0
+Boiro,Silva,-0.33,1.67,0.0,0,0
+Shaita,Watanga,0.66,4.0,0.33,0,0
+Borussia Hildesheim,Spelle-Venhaus,-0.67,3.33,0.33,0,0
+Roces,Lealtad,-1.66,3.0,0.33,0,0
+CFR Pforzheim,Balingen,-0.33,4.33,0.33,0,0
+Tus Dassendorf,Süderelbe,0.0,4.0,0.33,0,0
+HSC Hannover,Atlas Delmenhorst,1.0,3.66,0.67,0,0
+VfB Oldenburg,BW Lohne,1.0,5.66,0.67,0,0
+Bayern Alzenau,Unter-Flockenbach,0.33,3.67,0.67,0,0
+Al Minaa Basra,Al Shorta,-0.66,2.0,0.33,0,0
+Schermbeck,Eintracht Rheine,-1.67,5.67,0.67,0,0
+SAK Klagenfurt,KAC,-0.33,2.33,0.0,0,0
+Ciudad Rodrigo,Cultural Leonesa II,-1.66,3.0,0.0,0,0
+Vorsfelde,Eintracht Braunschw. II,-0.67,3.33,0.67,0,0
+Valladares,Sarriana,-1.0,2.34,0.33,0,0
+Jagiellonia,Real Betis,-0.66,2.0,0.33,0,0
+Fiorentina,Celje,0.33,2.33,0.33,0,0
+Posušje,Velež,-2.33,3.67,0.0,0,0
+Kickers Offenbach,FC 08 Villingen,-1.67,3.67,0.33,0,0
+FC Schweinfurt 05,Bayern München II,0.33,5.67,0.67,0,0
+BFC Dynamo,Eilenburg,0.0,2.66,0.33,0,0
+SSV Jeddeloh,Teutonia Ottensen,1.33,1.33,0.0,0,0
+TSV Steinbach,FC Gießen,0.67,2.67,0.67,0,0
+Gleisdorf 09,Ried II,0.66,2.0,0.33,0,0
+Völkermarkt,Spittal,-1.0,2.34,0.33,0,0
+Masr,Ceramica Cleopatra,-0.33,2.33,0.0,0,0
+Dellach im Gailtal,Wolfsberg,2.0,4.66,0.67,0,0
+St. Jakob Rosental,St. Veit / Glan,0.34,3.0,0.0,0,0
+Weißkirchen / Allhaming,Pregarten,1.33,3.33,1.0,0,0
+Lebring,FSC Hochegger Dächer,-0.67,4.67,0.33,0,0
+Leoben,Deutschlandsberger SC,-0.66,2.0,0.0,0,0
+Lichtenberg,Optik Rathenow,-1.33,4.67,0.33,0,0
+Arosa,Viveiro,-1.0,3.0,0.0,0,0
+Roda,Soneja,0.34,3.0,0.67,0,0
+Vevey Sports,SC Kriens,-0.33,1.67,0.0,0,0
+ATSV Erlangen,Eichstätt,-3.0,3.66,0.0,0,0
+Kirchanschöring,Grünwald,0.33,2.33,1.0,0,0
+Ghazl El Mehalla,AL Masry,-1.0,2.34,0.33,0,0
+Concordia Wiemelhausen,Sportfreunde Siegen,-2.0,3.34,0.0,0,0
+SW Essen,Meerbusch,0.0,2.66,0.67,0,0
+Erkenschwick,Finnentrop / Bamenohl,-0.66,2.0,0.33,0,0
+Preußen Münster II,SG Wattenscheid 09,0.0,3.34,0.33,0,0
+Westfalia Rhynern,Victoria Clarholz,-2.67,3.33,0.0,0,0
+HEBC,Harksheide,1.67,2.33,0.67,0,0
+SV Steinbach,Baunatal,-1.33,2.67,0.0,0,0
+Halstenbek-Rellingen,Buchholz,-1.34,4.0,0.33,0,0
+Young Boys W,Luzern W,1.33,3.33,1.0,0,0
+Schöningen,Germania Egestorf,0.66,2.0,0.33,0,0
+Verden 04,VfL Oldenburg,0.66,2.0,0.67,0,0
+Bochum II,Rot Weiss Ahlen,0.33,2.33,0.33,0,0
+Villalonga,Alondras,-0.33,2.33,0.67,0,0
+Weiche Flensburg,VfB Lübeck,-2.0,4.66,0.0,0,0
+Schwarz-Weiß Rehden,Wilhelmshaven,1.66,3.0,0.67,0,0
+Jove Español,Patacona,0.66,2.0,0.33,0,0
+Höngg,Taverne,-0.67,2.67,0.0,0,0
+VfR Mannheim,Zuzenhausen,0.33,2.33,0.33,0,0
+ŁKS Łódź II,Polonia Bytom,-0.67,3.33,0.0,0,0
+Ontinyent 1931,Saguntino,0.33,1.67,0.67,0,0
+Verl II,ASC Dortmund,-2.66,4.0,0.0,0,0
+Al-Fateh,Al-Ittihad FC,0.67,5.33,0.67,0,0
+Concordia Basel,Black Stars,1.0,3.66,1.0,0,0
+Muri,Buochs,-0.66,2.0,0.0,0,0
+YF Juventus,SV Schaffhausen,1.0,3.66,1.0,0,0
+Homberg,Hilden,0.66,4.0,0.67,0,0
+Llosetense,Collerense,0.67,4.67,1.0,0,0
+Münsingen,Langenthal,0.33,2.33,0.33,0,0
+Solothurn,Rotkreuz,-1.66,3.0,0.0,0,0
+Tuggen,Eschen / Mauren,-0.67,0.67,0.0,0,0
+Monheim,Germania Ratingen,1.0,1.66,0.33,0,0
+TVD Velbert,SSVg Velbert,0.0,4.66,0.67,0,0
+Mülheimer,SF Baumberg,-0.34,3.0,0.0,0,0
+Montañesa,Reddis,-1.0,3.66,0.67,0,0
+Hamburger SV III,Eimsbütteler TV,-0.33,5.67,0.33,0,0
+Vreden,Ennepetal,0.0,2.0,0.0,0,0
+Kleve,SC St. Tönis,-2.0,4.0,0.33,0,0
+SF Niederwenigern,Schonnebeck,-2.0,6.0,0.67,0,0
+Meppen II,Heeslinger SC,0.33,2.33,0.33,0,0
+Castellonense,Vall de Uxó,0.0,1.34,0.33,0,0
+Biemenhorst,Sonsbeck,1.33,2.67,0.33,0,0
+ISCA,Mouna,-1.0,1.66,0.0,0,0
+Lancy,Monthey,1.0,2.34,0.67,0,0
+LISCR,Fassell,-1.67,3.67,0.33,0,0
+Köniz,Portalban / Gletterens,-1.0,3.66,0.67,0,0
+Muttenz,Bassecourt,0.0,3.34,0.33,0,0
+Uzwil,Winterthur II,-0.33,3.67,0.33,0,0
+Besa Biel/Bienne,Dietikon,0.67,1.33,0.33,0,0
+Bülach,Widnau,0.67,2.67,0.33,0,0
+Ranger's,Atlètic Club d'Escaldes,0.0,4.0,0.33,0,0
+Echallens,La Chaux-de-Fonds,2.33,3.67,0.67,0,0
+Manchester United,Lyon,-1.33,3.33,0.0,0,0
+Chelsea,Legia Warszawa,1.0,2.34,0.33,0,0
+Eintracht Frankfurt,Tottenham,-0.67,3.33,0.33,0,0
+Lazio,Bodo/Glimt,-1.33,2.67,0.33,0,0
+Athletic Club,Rangers,0.33,1.67,0.33,0,0
+Rapid Vienna,Djurgardens IF,0.67,1.33,0.67,0,0
+Bradford,Notts County,0.67,3.33,0.33,0,0
+Municipal,Guastatoya,0.0,2.66,0.67,0,0
+Águila,Fuerte San Francisco,0.34,3.0,0.67,0,0
+Once Municipal,FAS,-0.33,0.33,0.0,0,0
+Cruz Azul W,Juárez W,-0.67,1.33,0.0,0,0
+Racing United,Cavalier,-0.67,3.33,0.33,0,0
+Deacons,Kick Start,-1.33,3.33,0.0,0,0
+Atlético San Luis W,Puebla W,-1.0,1.0,0.0,0,0
