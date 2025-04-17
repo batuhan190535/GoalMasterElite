@@ -1,3 +1,4 @@
+
 fastapi
 uvicorn
 requests
@@ -5,3 +6,12 @@ pandas
 joblib
 scikit-learn
 xgboost
+=======
+fastapi
+uvicorn
+requests
+pandas
+joblib
+scikit-learn
+xgboost
+>>>>>>> 5732a99 (Yerel değişiklikleri kaydettim)
